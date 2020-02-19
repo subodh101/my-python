@@ -28,5 +28,5 @@ def main(x: int, y: int, callback: Optional[Callable[[None], None]] = None):
         callback(x + y)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main(2, 9, callback)

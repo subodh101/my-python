@@ -1,7 +1,7 @@
 def clean_up(text_not_allowed, raw_string):
     """
     str.maketrans takes two arguments of input and output string of same length
-    for mapping input to put output
+    for mapping input to out output
 
     In our case we are mapping each character to None.
     Args:
@@ -24,5 +24,5 @@ def main():
     print("output:\n", result)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
