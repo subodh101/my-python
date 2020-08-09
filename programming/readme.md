@@ -1,6 +1,6 @@
-# Mani complexities by constraints
+# Competitive Programming
 
-## Source: [Topcoder community](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
+## Complexities by constraints
 
 ### O(1) or O(logn)
 - n > 10^8
@@ -26,3 +26,33 @@
 
 ### O(n!)
 - max -> 11
+
+**Source**: [Topcoder community](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
+
+## Famous Sections to Focus
+
+<!---
+Add description of the sections below, some basic examples and famous
+problem sets links.
+-->
+
+1. DFS
+
+2. BFS
+
+3. Matching Parenthesis Problem
+
+4. Using Hash Tables
+
+5. Variables/Pointers Manipulation
+
+6. Reverse Linked List (duplicates, removing duplicates)
+
+7. Sorting Fundamentals (quicksort, mergesort, bubblesort techniques)(runtime of a sort, time space complexity)
+
+8. Recursion
+
+9. Custom Data Structures (object oriented programming)
+
+10. Binary search
+
