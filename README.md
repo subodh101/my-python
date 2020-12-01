@@ -1,6 +1,6 @@
-# my-python
+# My Python
 
-Basic examples of most of the functionalities
+Basic examples of most of the functionalities.
 
 The names of the module are the name of the utility.
 
